@@ -1,0 +1,136 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+    color: #172a18;
+    font: bold;
+    background-image: url('download.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    
+}
+
+h4{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.navbar .navbar-1{
+    font-size: 2rem;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+
+     
+}
+
+.mb-3 .form-control{
+        background-color: rgba(0, 0, 0, 0); 
+        border: 1px solid #000; 
+        color: #fff; 
+        font-size: 16px;
+        padding: 10px; 
+}
+.mb-3 ::placeholder{
+    color: #fff;
+}
+
+.form-select{
+    background-color: rgba(0, 0, 0, 0); 
+    border: 1px solid #000; 
+    color: #fff; 
+    font-size: 16px; 
+    padding: 10px; 
+}
+
+.form-select {
+    background-color: rgba(0, 0, 0, 0); 
+    color: #fff; 
+    border: 1px solid black; 
+    font-size: 16px; 
+}
+
+.form-select option {
+    background-color: rgba(0, 0, 0, 0); 
+    color: #010101; 
+}
+
+.text-muted{
+    color: #fff !important;
+}
+
+.navbar .navbar-resultnih{
+
+        font-family: "Poppins", sans-serif;
+        font-weight: 900;
+        font-style: italic;
+        font-size: 2rem ;
+    }
+
+    button {
+        padding: 10px 20px;
+        border: none;
+        background-color: #28a745;
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+    }
+    button.reset {
+        background-color: #dc3545;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+    }
+    
+    .form-group {
+        margin-bottom: 20px;
+    }
+    .form-inline {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    h1{
+        color: #0af715;
+    }
+
+      
+      nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        border-bottom: 1px solid #333;
+        background-color: #f8f9fa;
+      }
+      
+      .nav-brand a {
+        font-weight: bold;
+        color: #000;
+        text-decoration: none;
+        font-size: 1em;
+      }
+      
+      .nav-links {
+        list-style: none;
+        display: flex;
+        gap: 15px;
+        margin: 0;
+      }
+      
+      .nav-links a {
+        color: #333;
+        text-decoration: none;
+        font-size: 0.9em;
+      }
+      
+      .nav-links a:hover {
+        color: #000;
+      }
+      
